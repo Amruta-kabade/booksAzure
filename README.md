@@ -1,2 +1,0 @@
-# booksAzure
-Deploying on azure
